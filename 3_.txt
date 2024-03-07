@@ -1,0 +1,4 @@
+atributos:
+	id: não pode repetir (único na pag)
+	 - tem maior especifidade em css
+	class: pode repetir, pode ter mais de um
